@@ -1,2 +1,2 @@
-# BootcampWebsite
-This a Bootcamp Website which is created by using HTML and CSS
+# BootcampWebsite #html #css
+This a simple Bootcamp Website template which is created by using HTML and CSS
